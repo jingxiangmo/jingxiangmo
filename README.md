@@ -1,6 +1,3 @@
 ### Greetings! I'm Jingxiang Mo
 
-- 🔭 I'm a second-year student at McGill University studying Finance and CS
-- 🌱 I’m currently in Montreal
-- 👯 I’m looking to collaborate on FinTech projects
-- ♟️ I'm always down to play a chess game!
+I aspire to solve problems with software engineering, financial engineering, and entrepreneurial skills. I am currently a student at McGill University studying Computer Science and Finance.
