@@ -1,8 +1,5 @@
-# Hi, I'm Jingxiang Mo 🤖
+# 👋 Hi, I'm [Jingxiang Mo](https://jingxiangmo.com)!
 
-#### 🎓 I study Computer Science and Finance at McGill University 
-#### 🇨🇦🇨🇳 I'm in Montreal, from Beijing and Vancouver
-#### ♟ I'm interested in robotics and chess 
-#### 💫 I aspire to solve problems with my software engineering, financial engineering, and entrepreneurship skills
-#### 👨‍💻 [My projects!](https://jingxiangmo.com)
-#### 📫 [Contact me!](mailto:jingxiangmo@gmail.com)
+I'm a second-year Computer Science & Finance student at McGill University interested in blockchain and machine learning. You can always find me playing chess, working out, or reading novels near campus.
+
+I love working on good projects with good people! If you're willing to collaborate (or have any interesting ideas), please feel free to reach out to me via [email](mailto:jingxiangmo@gmail.com) or [Linkedin](https://www.linkedin.com/in/jingxiangmo/)!
