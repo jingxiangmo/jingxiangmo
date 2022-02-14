@@ -7,4 +7,3 @@ I love working on good projects with good people! If you want to collaborate (or
 
 <img width='500' src="https://github-readme-stats.vercel.app/api?username=jingxiangmo" /> 
 <img width='500' src="https://activity-graph.herokuapp.com/graph?username=jingxiangmo&theme=minimal" /> 
-<img width='500'src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingxiangmo"/> 
