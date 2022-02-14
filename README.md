@@ -4,4 +4,7 @@ I'm a Software Developer from Canada and a Computer Science Student at McGill Un
 
 I love working on good projects with good people! If want to collaborate (or have any interesting ideas), please feel free to reach out to me via [email](mailto:jingxiangmo@gmail.com) or [Linkedin](https://www.linkedin.com/in/jingxiangmo/)!
 
-<img width='450' src="https://github-readme-stats.vercel.app/api?username=jingxiangmo" /> <img width='500' src="https://activity-graph.herokuapp.com/graph?username=jingxiangmo&theme=minimal" /> 
+
+<img width='500' src="https://github-readme-stats.vercel.app/api?username=jingxiangmo" /> 
+<img width='500' src="https://activity-graph.herokuapp.com/graph?username=jingxiangmo&theme=minimal" /> 
+<img width='500'src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingxiangmo"/> 
