@@ -6,7 +6,7 @@ Currently:
 - studying computer science, math, physics, and psychology @ **McGill University**
 
 Past:
-- created [VizArt](vizart.tech/create), a simple yet powerful air drawing sharing platform
+- created [VizArt](https://vizart.tech/create), a simple yet powerful air drawing sharing platform
 - worked as a product engineering intern @ **Coveo Qubit**
 - built robots @ **The Prometheus Lab**
 - created **Endevr**, a platform to decentralize and accelerate scientific research on blockchain
