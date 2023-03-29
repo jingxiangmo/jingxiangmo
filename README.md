@@ -1,6 +1,4 @@
-### 👋 Hi, I'm [Jingxiang Mo](https://jingxiangmo.com)!
-
-I'm learning and building cool projects with cool people!
+### ⚡️ Hi, I'm [Jingxiang Mo](https://jingxiangmo.com)!
 
 Currently studying computer science, math, physics, and psychology @ McGill University
 
