@@ -1,6 +1,6 @@
 ### ⚡️ Hi, I'm [Jingxiang Mo](https://jingxiangmo.com)!
 
-Currently studying stuff I like (computer science, math, physics, and psychology) @ McGill University
+Currently studying the stuff I like (computer science, math, physics, and psychology) @ McGill University
 
 Skills:
 C++, Python, JS, HTML/CSS, Figma, Ocaml
