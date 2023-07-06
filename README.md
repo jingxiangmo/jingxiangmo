@@ -1,7 +1,12 @@
-### ⚡️ Hi, I'm [Jingxiang Mo](https://jingxiangmo.com)!
-
-Just doing things for fun, always down to discuss interesting things!
-
-Skills: C++, Python, JS, HTML/CSS, Figma, Ocaml
-
- <a href="mailto:jingxiangmoa@gmail.com" title="Email"><img src="/assets/GmailSM.svg" height="25" aria-hidden="true"></a>
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+<p align="center">
+	<a href="mailto:jingxiangmo@gmail.com">Contact Support</a> —
+	<a href="https://jingxiangmo.com">GitHub Status</a> —
+	<a href="https://jingxiangmo.co">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
