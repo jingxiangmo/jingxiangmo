@@ -5,7 +5,7 @@
 <p align="center">
 	<a href="mailto:jingxiangmo@gmail.com">Contact Support</a> —
 	<a href="https://jingxiangmo.com">GitHub Status</a> —
-	<a href="https://jingxiangmo.com">@githubstatus</a>
+	<a href="https://jingxiangmo.substack.com/">@githubstatus</a>
 </p>
 <p></p>
 <p></p>
