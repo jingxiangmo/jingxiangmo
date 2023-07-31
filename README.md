@@ -1,12 +1,9 @@
+
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1920px-The_Earth_seen_from_Apollo_17.jpg">
 <p align="center">
-	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
-<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
-<p align="center">Sorry about that. Please try refreshing and contact me if the problem persists.</p>
+
 <p align="center">
-	<a href="mailto:jingxiangmo@gmail.com">Contact Support</a> —
-	<a href="https://jingxiangmo.com">GitHub Status</a> —
-	<a href="https://jingxiangmo.substack.com/">@githubstatus</a>
-</p>
-<p></p>
-<p></p>
+	<a href="mailto:jingxiangmo@gmail.com"> Email </a> —
+	<a href="https://jingxiangmo.com"> Website </a> —
+	<a href="https://jingxiangmo.substack.com/"> Writings </a>
 </p>
