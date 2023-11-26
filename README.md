@@ -4,6 +4,6 @@
 
 <p align="center">
 	<a href="mailto:jingxiangmo@gmail.com"> Email </a> —
-	<a href="https://jingxiangmo.com"> Website </a> —
-	<a href="https://jingxiangmo.substack.com/"> Writings </a>
+	<a href="https://jingxiangmo.com"> About </a> —
+	<a href="https://jingxiangmo.com/projects"> Projects </a> —
 </p>
